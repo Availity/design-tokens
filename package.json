@@ -1,0 +1,32 @@
+{
+  "name": "@availity/design-tokens",
+  "version": "0.0.1",
+  "description": "Design Tokens",
+  "main": "src/",
+  "files": [
+    "src",
+    "properties"
+  ],
+  "scripts": {
+    "build": "npm run clean && node ./build.js && ./postbuild.sh",
+    "clean": "rm -rf dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Mathes",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "style-dictionary": "3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Availity/design-tokens.git"
+  },
+  "keywords": [
+    "design",
+    "tokens"
+  ],
+  "bugs": {
+    "url": "https://github.com/Availity/design-tokens/issues"
+  },
+  "homepage": "https://github.com/Availity/design-tokens#readme"
+}
