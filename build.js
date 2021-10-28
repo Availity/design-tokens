@@ -6,7 +6,7 @@ const StyleDictionary = require('style-dictionary').extend({
       transformGroup: 'scss',
       buildPath: 'dist/scss/',
       files: [{
-        destination: 'variables.scss',
+        destination: '_variables.scss',
         format: 'scss/variables'
       }],
       options: {
