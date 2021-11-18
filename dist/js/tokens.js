@@ -18,101 +18,6 @@ module.exports = {
         "spacing",
         "base"
       ]
-    },
-    "xs": {
-      "value": "4px",
-      "type": "spacing",
-      "filePath": "src/tokens/tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "4px",
-        "type": "spacing"
-      },
-      "name": "SpacingXs",
-      "attributes": {
-        "category": "spacing",
-        "type": "xs"
-      },
-      "path": [
-        "spacing",
-        "xs"
-      ]
-    },
-    "sm": {
-      "value": "8px",
-      "type": "spacing",
-      "filePath": "src/tokens/tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "8px",
-        "type": "spacing"
-      },
-      "name": "SpacingSm",
-      "attributes": {
-        "category": "spacing",
-        "type": "sm"
-      },
-      "path": [
-        "spacing",
-        "sm"
-      ]
-    },
-    "md": {
-      "value": "16px",
-      "type": "spacing",
-      "filePath": "src/tokens/tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "16px",
-        "type": "spacing"
-      },
-      "name": "SpacingMd",
-      "attributes": {
-        "category": "spacing",
-        "type": "md"
-      },
-      "path": [
-        "spacing",
-        "md"
-      ]
-    },
-    "lg": {
-      "value": "24px",
-      "type": "spacing",
-      "filePath": "src/tokens/tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "24px",
-        "type": "spacing"
-      },
-      "name": "SpacingLg",
-      "attributes": {
-        "category": "spacing",
-        "type": "lg"
-      },
-      "path": [
-        "spacing",
-        "lg"
-      ]
-    },
-    "xl": {
-      "value": "48px",
-      "type": "spacing",
-      "filePath": "src/tokens/tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "48px",
-        "type": "spacing"
-      },
-      "name": "SpacingXl",
-      "attributes": {
-        "category": "spacing",
-        "type": "xl"
-      },
-      "path": [
-        "spacing",
-        "xl"
-      ]
     }
   },
   "paragraphSpacing": {
@@ -332,12 +237,12 @@ module.exports = {
       ]
     },
     "md": {
-      "value": "6px",
+      "value": "4px",
       "type": "borderRadius",
       "filePath": "src/tokens/tokens.json",
       "isSource": true,
       "original": {
-        "value": "6px",
+        "value": "4px",
         "type": "borderRadius"
       },
       "name": "BorderRadiusMd",
@@ -2288,6 +2193,48 @@ module.exports = {
           "primary",
           "main"
         ]
+      },
+      "light": {
+        "value": "#2d71c6",
+        "type": "color",
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.blue.700.value}",
+          "type": "color"
+        },
+        "name": "ColorPrimaryLight",
+        "attributes": {
+          "category": "color",
+          "type": "primary",
+          "item": "light"
+        },
+        "path": [
+          "color",
+          "primary",
+          "light"
+        ]
+      },
+      "dark": {
+        "value": "#104399",
+        "type": "color",
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.blue.900.value}",
+          "type": "color"
+        },
+        "name": "ColorPrimaryDark",
+        "attributes": {
+          "category": "color",
+          "type": "primary",
+          "item": "dark"
+        },
+        "path": [
+          "color",
+          "primary",
+          "dark"
+        ]
       }
     },
     "secondary": {
@@ -2311,92 +2258,288 @@ module.exports = {
           "secondary",
           "main"
         ]
+      },
+      "light": {
+        "value": "#3f7813",
+        "type": "color",
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.green.700.value}",
+          "type": "color"
+        },
+        "name": "ColorSecondaryLight",
+        "attributes": {
+          "category": "color",
+          "type": "secondary",
+          "item": "light"
+        },
+        "path": [
+          "color",
+          "secondary",
+          "light"
+        ]
+      },
+      "dark": {
+        "value": "#104399",
+        "type": "color",
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.blue.900.value}",
+          "type": "color"
+        },
+        "name": "ColorSecondaryDark",
+        "attributes": {
+          "category": "color",
+          "type": "secondary",
+          "item": "dark"
+        },
+        "path": [
+          "color",
+          "secondary",
+          "dark"
+        ]
       }
     },
     "status": {
       "info": {
-        "value": "#1552bc",
-        "type": "color",
-        "filePath": "src/tokens/tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{color.blue.800.value}",
-          "type": "color"
+        "main": {
+          "value": "#1552bc",
+          "type": "color",
+          "filePath": "src/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.blue.800.value}",
+            "type": "color"
+          },
+          "name": "ColorStatusInfoMain",
+          "attributes": {
+            "category": "color",
+            "type": "status",
+            "item": "info",
+            "subitem": "main"
+          },
+          "path": [
+            "color",
+            "status",
+            "info",
+            "main"
+          ]
         },
-        "name": "ColorStatusInfo",
-        "attributes": {
-          "category": "color",
-          "type": "status",
-          "item": "info"
+        "light": {
+          "value": "#2d71c6",
+          "type": "color",
+          "filePath": "src/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.blue.700.value}",
+            "type": "color"
+          },
+          "name": "ColorStatusInfoLight",
+          "attributes": {
+            "category": "color",
+            "type": "status",
+            "item": "info",
+            "subitem": "light"
+          },
+          "path": [
+            "color",
+            "status",
+            "info",
+            "light"
+          ]
         },
-        "path": [
-          "color",
-          "status",
-          "info"
-        ]
+        "dark": {
+          "value": "#104399",
+          "type": "color",
+          "filePath": "src/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.blue.900.value}",
+            "type": "color"
+          },
+          "name": "ColorStatusInfoDark",
+          "attributes": {
+            "category": "color",
+            "type": "status",
+            "item": "info",
+            "subitem": "dark"
+          },
+          "path": [
+            "color",
+            "status",
+            "info",
+            "dark"
+          ]
+        }
       },
       "success": {
-        "value": "#2b640c",
-        "type": "color",
-        "filePath": "src/tokens/tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{color.green.800.value}",
-          "type": "color"
+        "main": {
+          "value": "#2b640c",
+          "type": "color",
+          "filePath": "src/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.green.800.value}",
+            "type": "color"
+          },
+          "name": "ColorStatusSuccessMain",
+          "attributes": {
+            "category": "color",
+            "type": "status",
+            "item": "success",
+            "subitem": "main"
+          },
+          "path": [
+            "color",
+            "status",
+            "success",
+            "main"
+          ]
         },
-        "name": "ColorStatusSuccess",
-        "attributes": {
-          "category": "color",
-          "type": "status",
-          "item": "success"
+        "light": {
+          "value": "#3f7813",
+          "type": "color",
+          "filePath": "src/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.green.700.value}",
+            "type": "color"
+          },
+          "name": "ColorStatusSuccessLight",
+          "attributes": {
+            "category": "color",
+            "type": "status",
+            "item": "success",
+            "subitem": "light"
+          },
+          "path": [
+            "color",
+            "status",
+            "success",
+            "light"
+          ]
         },
-        "path": [
-          "color",
-          "status",
-          "success"
-        ]
+        "dark": {
+          "value": "#074600",
+          "type": "color",
+          "filePath": "src/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.green.900.value}",
+            "type": "color"
+          },
+          "name": "ColorStatusSuccessDark",
+          "attributes": {
+            "category": "color",
+            "type": "status",
+            "item": "success",
+            "subitem": "dark"
+          },
+          "path": [
+            "color",
+            "status",
+            "success",
+            "dark"
+          ]
+        }
       },
       "warning": {
-        "value": "#b09614",
-        "type": "color",
-        "filePath": "src/tokens/tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{color.yellow.600.value}",
-          "type": "color"
-        },
-        "name": "ColorStatusWarning",
-        "attributes": {
-          "category": "color",
-          "type": "status",
-          "item": "warning"
-        },
-        "path": [
-          "color",
-          "status",
-          "warning"
-        ]
+        "main": {
+          "value": "#b09614",
+          "type": "color",
+          "filePath": "src/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.yellow.600.value}",
+            "type": "color"
+          },
+          "name": "ColorStatusWarningMain",
+          "attributes": {
+            "category": "color",
+            "type": "status",
+            "item": "warning",
+            "subitem": "main"
+          },
+          "path": [
+            "color",
+            "status",
+            "warning",
+            "main"
+          ]
+        }
       },
       "error": {
-        "value": "#981123",
-        "type": "color",
-        "filePath": "src/tokens/tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "{color.red.600.value}",
-          "type": "color"
+        "main": {
+          "value": "#981123",
+          "type": "color",
+          "filePath": "src/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.red.600.value}",
+            "type": "color"
+          },
+          "name": "ColorStatusErrorMain",
+          "attributes": {
+            "category": "color",
+            "type": "status",
+            "item": "error",
+            "subitem": "main"
+          },
+          "path": [
+            "color",
+            "status",
+            "error",
+            "main"
+          ]
         },
-        "name": "ColorStatusError",
-        "attributes": {
-          "category": "color",
-          "type": "status",
-          "item": "error"
+        "light": {
+          "value": "#c70002",
+          "type": "color",
+          "filePath": "src/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.red.500.value}",
+            "type": "color"
+          },
+          "name": "ColorStatusErrorLight",
+          "attributes": {
+            "category": "color",
+            "type": "status",
+            "item": "error",
+            "subitem": "light"
+          },
+          "path": [
+            "color",
+            "status",
+            "error",
+            "light"
+          ]
         },
-        "path": [
-          "color",
-          "status",
-          "error"
-        ]
+        "dark": {
+          "value": "#7c142e",
+          "type": "color",
+          "filePath": "src/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "{color.red.700.value}",
+            "type": "color"
+          },
+          "name": "ColorStatusErrorDark",
+          "attributes": {
+            "category": "color",
+            "type": "status",
+            "item": "error",
+            "subitem": "dark"
+          },
+          "path": [
+            "color",
+            "status",
+            "error",
+            "dark"
+          ]
+        }
       }
     },
     "text": {
@@ -2440,6 +2583,144 @@ module.exports = {
           "color",
           "text",
           "secondary"
+        ]
+      },
+      "tertiary": {
+        "value": "#5e616e",
+        "type": "color",
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.grey.400.value}",
+          "type": "color"
+        },
+        "name": "ColorTextTertiary",
+        "attributes": {
+          "category": "color",
+          "type": "text",
+          "item": "tertiary"
+        },
+        "path": [
+          "color",
+          "text",
+          "tertiary"
+        ]
+      },
+      "inverse": {
+        "value": "#ffffff",
+        "type": "color",
+        "secondary": {
+          "value": "#b5bbc5",
+          "type": "color",
+          "filePath": "src/tokens/tokens.json",
+          "isSource": true
+        },
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.common.white.value}",
+          "type": "color",
+          "secondary": {
+            "value": "{color.grey.300.value}",
+            "type": "color",
+            "filePath": "src/tokens/tokens.json",
+            "isSource": true
+          }
+        },
+        "name": "ColorTextInverse",
+        "attributes": {
+          "category": "color",
+          "type": "text",
+          "item": "inverse"
+        },
+        "path": [
+          "color",
+          "text",
+          "inverse"
+        ]
+      },
+      "info": {
+        "value": "#1552bc",
+        "type": "color",
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.blue.800.value}",
+          "type": "color"
+        },
+        "name": "ColorTextInfo",
+        "attributes": {
+          "category": "color",
+          "type": "text",
+          "item": "info"
+        },
+        "path": [
+          "color",
+          "text",
+          "info"
+        ]
+      },
+      "error": {
+        "value": "#981123",
+        "type": "color",
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.red.600.value}",
+          "type": "color"
+        },
+        "name": "ColorTextError",
+        "attributes": {
+          "category": "color",
+          "type": "text",
+          "item": "error"
+        },
+        "path": [
+          "color",
+          "text",
+          "error"
+        ]
+      },
+      "success": {
+        "value": "#2b640c",
+        "type": "color",
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.green.800.value}",
+          "type": "color"
+        },
+        "name": "ColorTextSuccess",
+        "attributes": {
+          "category": "color",
+          "type": "text",
+          "item": "success"
+        },
+        "path": [
+          "color",
+          "text",
+          "success"
+        ]
+      },
+      "link": {
+        "value": "#1552bc",
+        "type": "color",
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.blue.800.value}",
+          "type": "color"
+        },
+        "name": "ColorTextLink",
+        "attributes": {
+          "category": "color",
+          "type": "text",
+          "item": "link"
+        },
+        "path": [
+          "color",
+          "text",
+          "link"
         ]
       }
     },
@@ -2864,6 +3145,155 @@ module.exports = {
           "color",
           "pink",
           "900"
+        ]
+      }
+    },
+    "background": {
+      "canvas": {
+        "value": "#f3f5f7",
+        "type": "color",
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.grey.50.value}",
+          "type": "color"
+        },
+        "name": "ColorBackgroundCanvas",
+        "attributes": {
+          "category": "color",
+          "type": "background",
+          "item": "canvas"
+        },
+        "path": [
+          "color",
+          "background",
+          "canvas"
+        ]
+      },
+      "card": {
+        "value": "#ffffff",
+        "type": "color",
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.common.white.value}",
+          "type": "color"
+        },
+        "name": "ColorBackgroundCard",
+        "attributes": {
+          "category": "color",
+          "type": "background",
+          "item": "card"
+        },
+        "path": [
+          "color",
+          "background",
+          "card"
+        ]
+      },
+      "header": {
+        "value": "#292b32",
+        "type": "color",
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.grey.700.value}",
+          "type": "color"
+        },
+        "name": "ColorBackgroundHeader",
+        "attributes": {
+          "category": "color",
+          "type": "background",
+          "item": "header"
+        },
+        "path": [
+          "color",
+          "background",
+          "header"
+        ]
+      },
+      "subnav": {
+        "value": "#393b46",
+        "type": "color",
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.grey.600.value}",
+          "type": "color"
+        },
+        "name": "ColorBackgroundSubnav",
+        "attributes": {
+          "category": "color",
+          "type": "background",
+          "item": "subnav"
+        },
+        "path": [
+          "color",
+          "background",
+          "subnav"
+        ]
+      },
+      "sidenav": {
+        "value": "#393b46",
+        "type": "color",
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.grey.600.value}",
+          "type": "color"
+        },
+        "name": "ColorBackgroundSidenav",
+        "attributes": {
+          "category": "color",
+          "type": "background",
+          "item": "sidenav"
+        },
+        "path": [
+          "color",
+          "background",
+          "sidenav"
+        ]
+      },
+      "accent": {
+        "value": "#000000",
+        "type": "color",
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#00000010",
+          "type": "color"
+        },
+        "name": "ColorBackgroundAccent",
+        "attributes": {
+          "category": "color",
+          "type": "background",
+          "item": "accent"
+        },
+        "path": [
+          "color",
+          "background",
+          "accent"
+        ]
+      },
+      "border": {
+        "value": "#d7dae0",
+        "type": "color",
+        "filePath": "src/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{color.grey.200.value}",
+          "type": "color"
+        },
+        "name": "ColorBackgroundBorder",
+        "attributes": {
+          "category": "color",
+          "type": "background",
+          "item": "border"
+        },
+        "path": [
+          "color",
+          "background",
+          "border"
         ]
       }
     }
