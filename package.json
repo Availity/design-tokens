@@ -1,10 +1,10 @@
 {
   "name": "@availity/design-tokens",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Design Tokens",
   "main": "dist/",
   "files": [
-    "src",
+    "dist",
     "properties"
   ],
   "scripts": {
@@ -26,7 +26,8 @@
     "tokens"
   ],
   "bugs": {
-    "url": "https://github.com/Availity/design-tokens/issues"
+    "url": "https://github.com/Availity/design-tokens/issues",
+    "email" : "tyler.mathes@availity.com"
   },
   "homepage": "https://github.com/Availity/design-tokens#readme"
 }
