@@ -35,19 +35,6 @@ const StyleDictionary = require('style-dictionary').extend({
         showFileHeader: false,
         outputReferences: true
       },
-      
-    },
-    web: {
-      transformGroup: 'js',
-      buildPath: 'dist/js/',
-      files: [{
-        destination: 'tokens.js',
-        format: 'javascript/module'
-      }],
-      options: {
-        showFileHeader: false,
-        outputReferences: true
-      }
     }
   }
 });
