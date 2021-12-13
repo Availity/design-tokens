@@ -1,4 +1,4 @@
-import {theme} from '../../dist/json/tokens.json'
+const theme = require('../../dist/json/tokens.json')
 
 module.exports = {
   mode: 'light',
