@@ -24,12 +24,13 @@ const StyleDictionary = require('style-dictionary').extend({
         'outputReferences': true
       }
     },
-    web: {
+    js: {
       transformGroup: 'js',
-      buildPath: 'dist/json/',
+      transforms: ["attribute/cti", "name/cti/camel", "color/hex", "size/rem"],
+      buildPath: 'dist/js/',
       files: [{
-        destination: 'tokens.json',
-        format: 'json/nested'
+        destination: 'tokens.js',
+        format: 'javascript/es6'
       }],
       options: {
         showFileHeader: false,
