@@ -1,6 +1,6 @@
 {
   "name": "@availity/design-tokens",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "description": "Design Tokens",
   "main": "dist/",
   "files": [
@@ -15,8 +15,8 @@
   "author": "Tyler Mathes",
   "license": "Apache-2.0",
   "devDependencies": {
-    "style-dictionary": "3.0.2",
-    "@availity/design-tokens":"^0.1.7"
+    "jsonc-parser": "^3.0.0",
+    "style-dictionary": "^3.1.0"
   },
   "repository": {
     "type": "git",
@@ -28,7 +28,7 @@
   ],
   "bugs": {
     "url": "https://github.com/Availity/design-tokens/issues",
-    "email" : "tyler.mathes@availity.com"
+    "email": "tyler.mathes@availity.com"
   },
   "homepage": "https://github.com/Availity/design-tokens#readme"
 }
