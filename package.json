@@ -1,6 +1,6 @@
 {
   "name": "@availity/design-tokens",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Design Tokens",
   "main": "dist/",
   "files": [
@@ -15,8 +15,7 @@
   "author": "Tyler Mathes",
   "license": "Apache-2.0",
   "devDependencies": {
-    "jsonc-parser": "^3.0.0",
-    "style-dictionary": "^3.1.0"
+    "style-dictionary": "^3.1.1"
   },
   "repository": {
     "type": "git",
