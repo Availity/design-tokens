@@ -1,6 +1,6 @@
 {
   "name": "@availity/design-tokens",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Design Tokens",
   "main": "dist/",
   "files": [
@@ -8,14 +8,16 @@
     "properties"
   ],
   "scripts": {
-    "build": "npm run clean && node ./build.js && ./postbuild.sh",
-    "clean": "rm -rf dist",
+    "transform": "npx token-transformer src/tokens.json src/tokens/core.json",
+    "build": "npm run clean && npm run transform && node ./build.js && ./postbuild.sh",
+    "clean": "rm -rf dist && rm -rf src/tokens",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tyler Mathes",
   "license": "Apache-2.0",
   "devDependencies": {
-    "style-dictionary": "^3.1.1"
+    "style-dictionary": "^3.1.1",
+    "token-transformer": "^0.0.14"
   },
   "repository": {
     "type": "git",
