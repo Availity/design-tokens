@@ -153,7 +153,7 @@
           "y": 1,
           "blur": 14,
           "spread": 0,
-          "color": "rgba(0,0,0.12)",
+          "color": "#0000001f",
           "type": "dropShadow"
         }
       ],
@@ -232,7 +232,7 @@
           "y": 8,
           "blur": 10,
           "spread": 1,
-          "color": "#00000033",
+          "color": "#00000024",
           "type": "dropShadow"
         },
         {
