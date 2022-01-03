@@ -1,6 +1,6 @@
 {
   "name": "@availity/design-tokens",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Design Tokens",
   "main": "dist/",
   "files": [
