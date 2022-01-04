@@ -1595,24 +1595,6 @@
       "type": "lineHeights"
     }
   },
-  "textTransform": {
-    "none": {
-      "value": "none",
-      "type": "other"
-    },
-    "uppercase": {
-      "value": "uppercase",
-      "type": "other"
-    },
-    "capitalized": {
-      "value": "capitalized",
-      "type": "other"
-    },
-    "lowercase": {
-      "value": "lowercase",
-      "type": "other"
-    }
-  },
   "typography": {
     "d1": {
       "fontFamily": {
@@ -1958,6 +1940,24 @@
       "paragraphSpacing": {
         "value": 0
       }
+    }
+  },
+  "textTransform": {
+    "none": {
+      "value": "none",
+      "type": "textCase"
+    },
+    "lowercase": {
+      "value": "lowercase",
+      "type": "textCase"
+    },
+    "uppercase": {
+      "value": "uppercase",
+      "type": "textCase"
+    },
+    "capitalized": {
+      "value": "capitalized",
+      "type": "textCase"
     }
   }
 }
