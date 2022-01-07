@@ -1143,16 +1143,16 @@
         "value": "#103E8E",
         "type": "color"
       },
+      "darker": {
+        "value": "#0B2A60",
+        "type": "color"
+      },
       "contrast": {
         "value": "#ffffff",
         "type": "color"
       },
       "outlineBgHover": {
         "value": "#1552BC20",
-        "type": "color"
-      },
-      "darker": {
-        "value": "#0B2A60",
         "type": "color"
       }
     },
@@ -1169,6 +1169,10 @@
         "value": "#292B32",
         "type": "color"
       },
+      "darker": {
+        "value": "#16171D",
+        "type": "color"
+      },
       "contrast": {
         "value": "#ffffff",
         "type": "color"
@@ -1176,9 +1180,31 @@
       "outlineBgHover": {
         "value": "#393B4620",
         "type": "color"
+      }
+    },
+    "neutral": {
+      "main": {
+        "value": "#00000014",
+        "type": "color"
+      },
+      "light": {
+        "value": "#0000000a",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#00000029",
+        "type": "color"
       },
       "darker": {
-        "value": "#16171D",
+        "value": "#0000003d",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "#0A0B0F",
+        "type": "color"
+      },
+      "bgHover": {
+        "value": "#0000001f",
         "type": "color"
       }
     },
@@ -1195,16 +1221,16 @@
         "value": "#103E8E",
         "type": "color"
       },
+      "darker": {
+        "value": "#0B2A60",
+        "type": "color"
+      },
       "contrast": {
         "value": "#ffffff",
         "type": "color"
       },
       "outlineBgHover": {
         "value": "#1552BC20",
-        "type": "color"
-      },
-      "darker": {
-        "value": "#0B2A60",
         "type": "color"
       }
     },
@@ -1221,16 +1247,16 @@
         "value": "#263E0E",
         "type": "color"
       },
+      "darker": {
+        "value": "#192A09",
+        "type": "color"
+      },
       "contrast": {
         "value": "#ffffff",
         "type": "color"
       },
       "outlineBgHover": {
-        "value": "#2B640C20",
-        "type": "color"
-      },
-      "darker": {
-        "value": "#192A09",
+        "value": "#32531320",
         "type": "color"
       }
     },
@@ -1247,16 +1273,16 @@
         "value": "#983B11",
         "type": "color"
       },
+      "darker": {
+        "value": "#532009",
+        "type": "color"
+      },
       "contrast": {
         "value": "#ffffff",
         "type": "color"
       },
       "outlineBgHover": {
         "value": "#DB551820",
-        "type": "color"
-      },
-      "darker": {
-        "value": "#532009",
         "type": "color"
       }
     },
@@ -1273,16 +1299,16 @@
         "value": "#981123",
         "type": "color"
       },
+      "darker": {
+        "value": "#6A0C18",
+        "type": "color"
+      },
       "contrast": {
         "value": "#ffffff",
         "type": "color"
       },
       "outlineBgHover": {
         "value": "#C7000220",
-        "type": "color"
-      },
-      "darker": {
-        "value": "#6A0C18",
         "type": "color"
       }
     },
@@ -1463,32 +1489,6 @@
       },
       "border": {
         "value": "#D7DAE0",
-        "type": "color"
-      }
-    },
-    "neutral": {
-      "main": {
-        "value": "#00000014",
-        "type": "color"
-      },
-      "dark": {
-        "value": "#00000029",
-        "type": "color"
-      },
-      "darker": {
-        "value": "#0000003d",
-        "type": "color"
-      },
-      "contrastText": {
-        "value": "#0A0B0F",
-        "type": "color"
-      },
-      "bgHover": {
-        "value": "#0000001f",
-        "type": "color"
-      },
-      "light": {
-        "value": "#0000000a",
         "type": "color"
       }
     }
