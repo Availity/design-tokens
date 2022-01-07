@@ -7,31 +7,37 @@ module.exports = {
       main: theme.colorPrimaryMain,
       light: theme.colorPrimaryLight,
       dark: theme.colorPrimaryDark,
+      darker: theme.colorPrimaryDarker
     },
     secondary: {
       main: theme.colorSecondaryMain,
       light: theme.colorSecondaryLight,
       dark: theme.colorSecondaryDark,
+      darker: theme.colorSecondaryDarker
     },
     error: {
       main: theme.colorErrorMain,
       light: theme.colorErrorLight,
       dark: theme.colorErrorDark,
+      darker: theme.colorErrorDarker
     },
     warning: {
       main: theme.colorWarningMain,
       light: theme.colorWarningLight,
       dark: theme.colorWarningDark,
+      darker: theme.colorWarningDarker
     },
     info: {
       main: theme.colorInfoMain,
       light: theme.colorInfoLight,
       dark: theme.colorInfoDark,
+      darker: theme.colorInfoDarker
     },
     success: {
       main: theme.colorSuccessMain,
       light: theme.colorSuccessLight,
       dark: theme.colorSuccessDark,
+      darker: theme.colorSuccessDarker
     },
     grey: {
       50: theme.colorGrey50,
