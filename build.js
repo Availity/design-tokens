@@ -21,7 +21,7 @@ StyleDictionary.registerTransform({
 
 StyleDictionary.registerTransformGroup({
   name: 'custom/web',
-  transforms: ["shadow/spreadShadow", "attribute/cti", "name/cti/camel", "color/hex", "size/rem"],
+  transforms: ["shadow/spreadShadow", "attribute/cti", "name/cti/kebab", "color/hex", "size/rem"],
 });
 
 // APPLY THE CONFIGURATION

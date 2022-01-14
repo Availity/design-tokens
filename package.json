@@ -16,7 +16,7 @@
   "author": "Tyler Mathes",
   "license": "Apache-2.0",
   "devDependencies": {
-    "style-dictionary": "^3.1.1",
+    "style-dictionary": "^3.1.2",
     "token-transformer": "^0.0.14"
   },
   "repository": {
