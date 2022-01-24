@@ -14,7 +14,7 @@ StyleDictionary.registerTransform({
   },
   transformer: (token) => {
     const shadows = Object.values(token.value);
-    const result = shadows.map(shadow => `${shadow.x} ${shadow.y} ${shadow.blur} ${shadow.spread} ${shadow.color}`);
+    const result = shadows.map(shadow => `${shadow.x}px ${shadow.y}px ${shadow.blur}px ${shadow.spread}px ${shadow.color}`);
     return result.join(',');
   }
 });
