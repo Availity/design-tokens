@@ -24,6 +24,11 @@ StyleDictionary.registerTransformGroup({
   transforms: ["shadow/spreadShadow", "attribute/cti", "name/cti/kebab", "color/hex", "size/rem"],
 });
 
+StyleDictionary.registerTransformGroup({
+  name: 'custom/js',
+  transforms: ["shadow/spreadShadow", "attribute/cti", "name/cti/camel", "color/hex", "size/rem"],
+});
+
 // APPLY THE CONFIGURATION
 // IMPORTANT: the registration of custom transforms
 // needs to be done _before_ applying the configuration

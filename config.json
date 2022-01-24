@@ -24,7 +24,7 @@
             }
         },
         "js": {
-            "transformGroup": "custom/web",
+            "transformGroup": "custom/js",
             "buildPath": "dist/js/",
             "files": [{
                 "destination": "tokens.js",
