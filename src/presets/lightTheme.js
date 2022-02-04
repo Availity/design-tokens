@@ -115,6 +115,10 @@ module.exports = {
     htmlFontSize: 16,
     fontFamily: theme.fontFamiliesBase,
     fontSize: 14,
+    fontWeightLight: 300,
+    fontWeightRegular: 400,
+    fontWeightMedium: 500,
+    fontWeightBold: 700,
     d1: {
       fontSize: theme.typographyD1FontSize,
       fontWeight: theme.typographyD1FontWeight,
