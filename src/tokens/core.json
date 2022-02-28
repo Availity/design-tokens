@@ -1135,6 +1135,10 @@
         "value": "#1552BC",
         "type": "color"
       },
+      "main-20": {
+        "value": "#1552BC20",
+        "type": "color"
+      },
       "light": {
         "value": "#1B74CB",
         "type": "color"
@@ -1150,15 +1154,15 @@
       "contrast": {
         "value": "#ffffff",
         "type": "color"
-      },
-      "outlineBgHover": {
-        "value": "#1552BC20",
-        "type": "color"
       }
     },
     "secondary": {
       "main": {
         "value": "#393B46",
+        "type": "color"
+      },
+      "main-20": {
+        "value": "#393B4620",
         "type": "color"
       },
       "light": {
@@ -1176,15 +1180,15 @@
       "contrast": {
         "value": "#ffffff",
         "type": "color"
-      },
-      "outlineBgHover": {
-        "value": "#393B4620",
-        "type": "color"
       }
     },
     "neutral": {
       "main": {
         "value": "#00000014",
+        "type": "color"
+      },
+      "main-20": {
+        "value": "#0000001f",
         "type": "color"
       },
       "light": {
@@ -1202,15 +1206,15 @@
       "contrast": {
         "value": "#0A0B0F",
         "type": "color"
-      },
-      "bgHover": {
-        "value": "#0000001f",
-        "type": "color"
       }
     },
     "info": {
       "main": {
         "value": "#1552BC",
+        "type": "color"
+      },
+      "main-20": {
+        "value": "#1552BC20",
         "type": "color"
       },
       "light": {
@@ -1228,15 +1232,15 @@
       "contrast": {
         "value": "#ffffff",
         "type": "color"
-      },
-      "outlineBgHover": {
-        "value": "#1552BC20",
-        "type": "color"
       }
     },
     "success": {
       "main": {
         "value": "#325313",
+        "type": "color"
+      },
+      "main-20": {
+        "value": "#2B640C20",
         "type": "color"
       },
       "light": {
@@ -1254,15 +1258,15 @@
       "contrast": {
         "value": "#ffffff",
         "type": "color"
-      },
-      "outlineBgHover": {
-        "value": "#2B640C20",
-        "type": "color"
       }
     },
     "warning": {
       "main": {
         "value": "#DB5518",
+        "type": "color"
+      },
+      "main-20": {
+        "value": "#DB551820",
         "type": "color"
       },
       "light": {
@@ -1280,15 +1284,15 @@
       "contrast": {
         "value": "#ffffff",
         "type": "color"
-      },
-      "outlineBgHover": {
-        "value": "#DB551820",
-        "type": "color"
       }
     },
     "error": {
       "main": {
         "value": "#C70002",
+        "type": "color"
+      },
+      "main-20": {
+        "value": "#C7000220",
         "type": "color"
       },
       "light": {
@@ -1305,10 +1309,6 @@
       },
       "contrast": {
         "value": "#ffffff",
-        "type": "color"
-      },
-      "outlineBgHover": {
-        "value": "#C7000220",
         "type": "color"
       }
     },

@@ -207,24 +207,21 @@ module.exports = {
       fontSize: '0.875rem',
       fontWeight: theme.fontWeightsRegular,
       fontFamily: theme.fontFamiliesBase,
-      letterSpacing: 0.2,
-      textTransform: theme.textTransformUppercase
+      letterSpacing: 0.2
     },
     caption: {
       fontSize: theme.typographyCaptionFontSize,
       fontWeight: theme.typographyCaptionFontWeight,
       fontFamily: theme.typographyCaptionFontFamily,
       letterSpacing: theme.typographyCaptionLetterSpacing,
-      color: theme.colorTextPrimary,
-      textTransform: theme.textTransformUppercase
+      color: theme.colorTextPrimary
     },
     overline: {
       fontSize: theme.typographyOverlineFontSize,
       fontWeight: theme.typographyOverlineFontWeight,
       fontFamily: theme.typographyOverlineFontFamily,
       letterSpacing: theme.typographyOverlineLetterSpacing,
-      color: theme.colorTextPrimary,
-      textTransform: theme.textTransformUppercase
+      color: theme.colorTextPrimary
     }
   }
 }
