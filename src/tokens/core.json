@@ -1438,27 +1438,27 @@
     },
     "action": {
       "active": {
-        "value": "#5E616E",
+        "value": "#0000008a",
         "type": "color"
       },
       "hover": {
-        "value": "#F3F5F7",
+        "value": "#00000014",
         "type": "color"
       },
       "selected": {
-        "value": "#EEEFF2",
+        "value": "#2261b51f",
         "type": "color"
       },
       "disabled": {
-        "value": "#B5BBC5",
+        "value": "#00000042",
         "type": "color"
       },
       "disabledBg": {
-        "value": "#EEEFF2",
+        "value": "#0000001f",
         "type": "color"
       },
       "focus": {
-        "value": "#D7DAE0",
+        "value": "#00000029",
         "type": "color"
       }
     },
