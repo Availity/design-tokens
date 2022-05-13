@@ -15,6 +15,12 @@ module.exports = {
       dark: theme.colorSecondaryDark,
       darker: theme.colorSecondaryDarker
     },
+    tertiary: {
+      main: theme.colorTertiaryMain,
+      light: theme.colorTertiaryLight,
+      dark: theme.colorTertiaryDark,
+      darker: theme.colorTertiaryDarker
+    },
     error: {
       main: theme.colorErrorMain,
       light: theme.colorErrorLight,
@@ -74,6 +80,18 @@ module.exports = {
       700: theme.colorPurple700,
       800: theme.colorPurple800,
       900: theme.colorPurple900,
+    },
+    blue: {
+      50: theme.colorBlue50,
+      100: theme.colorBlue100,
+      200: theme.colorBlue200,
+      300: theme.colorBlue300,
+      400: theme.colorBlue400,
+      500: theme.colorBlue500,
+      600: theme.colorBlue600,
+      700: theme.colorBlue700,
+      800: theme.colorBlue800,
+      900: theme.colorBlue900,
     },
     contrastThreshold: 2,
     contrastText: '#fff',
