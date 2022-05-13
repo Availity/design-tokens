@@ -1182,12 +1182,12 @@
         "type": "color"
       }
     },
-    "neutral": {
+    "tertiary": {
       "main": {
         "value": "#00000014",
         "type": "color"
       },
-      "main-20": {
+      "main20": {
         "value": "#0000001f",
         "type": "color"
       },
@@ -1648,347 +1648,347 @@
   "typography": {
     "d1": {
       "fontFamily": {
-        "value": "Lato, Arial, sans-serif"
+        "value": "[object Object]"
       },
       "fontWeight": {
-        "value": 300
+        "value": "[object Object]"
       },
       "lineHeight": {
-        "value": "5.4rem"
+        "value": "[object Object]"
       },
       "fontSize": {
-        "value": "4.5rem"
+        "value": "[object Object]"
       },
       "letterSpacing": {
-        "value": "-2%"
+        "value": "[object Object]"
       },
       "textTransform": {
-        "value": "none"
+        "value": "[object Object]"
       },
       "paragraphSpacing": {
-        "value": 0
+        "value": "[object Object]"
       }
     },
     "d2": {
       "fontFamily": {
-        "value": "Lato, Arial, sans-serif"
+        "value": "[object Object]"
       },
       "fontWeight": {
-        "value": 300
+        "value": "[object Object]"
       },
       "lineHeight": {
-        "value": "4.2rem"
+        "value": "[object Object]"
       },
       "fontSize": {
-        "value": "3.5rem"
+        "value": "[object Object]"
       },
       "letterSpacing": {
-        "value": "-2%"
+        "value": "[object Object]"
       },
       "textTransform": {
-        "value": "none"
+        "value": "[object Object]"
       },
       "paragraphSpacing": {
-        "value": 0
+        "value": "[object Object]"
       }
     },
     "h1": {
       "fontFamily": {
-        "value": "Lato, Arial, sans-serif"
+        "value": "[object Object]"
       },
       "fontWeight": {
-        "value": 700
+        "value": "[object Object]"
       },
       "lineHeight": {
-        "value": "3rem"
+        "value": "[object Object]"
       },
       "fontSize": {
-        "value": "2.5rem"
+        "value": "[object Object]"
       },
       "letterSpacing": {
-        "value": 0
+        "value": "[object Object]"
       },
       "textTransform": {
-        "value": "none"
+        "value": "[object Object]"
       },
       "paragraphSpacing": {
-        "value": 0
+        "value": "[object Object]"
       }
     },
     "h2": {
       "fontFamily": {
-        "value": "Lato, Arial, sans-serif"
+        "value": "[object Object]"
       },
       "fontWeight": {
-        "value": 700
+        "value": "[object Object]"
       },
       "lineHeight": {
-        "value": "2.5rem"
+        "value": "[object Object]"
       },
       "fontSize": {
-        "value": "2rem"
+        "value": "[object Object]"
       },
       "letterSpacing": {
-        "value": 0
+        "value": "[object Object]"
       },
       "textTransform": {
-        "value": "none"
+        "value": "[object Object]"
       },
       "paragraphSpacing": {
-        "value": 0
+        "value": "[object Object]"
       }
     },
     "h3": {
       "fontFamily": {
-        "value": "Lato, Arial, sans-serif"
+        "value": "[object Object]"
       },
       "fontWeight": {
-        "value": 700
+        "value": "[object Object]"
       },
       "lineHeight": {
-        "value": "2rem"
+        "value": "[object Object]"
       },
       "fontSize": {
-        "value": "1.75rem"
+        "value": "[object Object]"
       },
       "letterSpacing": {
-        "value": 0
+        "value": "[object Object]"
       },
       "textTransform": {
-        "value": "none"
+        "value": "[object Object]"
       },
       "paragraphSpacing": {
-        "value": 0
+        "value": "[object Object]"
       }
     },
     "h4": {
       "fontFamily": {
-        "value": "Lato, Arial, sans-serif"
+        "value": "[object Object]"
       },
       "fontWeight": {
-        "value": 700
+        "value": "[object Object]"
       },
       "lineHeight": {
-        "value": "1.8rem"
+        "value": "[object Object]"
       },
       "fontSize": {
-        "value": "1.5rem"
+        "value": "[object Object]"
       },
       "letterSpacing": {
-        "value": 0
+        "value": "[object Object]"
       },
       "textTransform": {
-        "value": "none"
+        "value": "[object Object]"
       },
       "paragraphSpacing": {
-        "value": 0
+        "value": "[object Object]"
       }
     },
     "h5": {
       "fontFamily": {
-        "value": "Lato, Arial, sans-serif"
+        "value": "[object Object]"
       },
       "fontWeight": {
-        "value": 700
+        "value": "[object Object]"
       },
       "lineHeight": {
-        "value": "1.5rem"
+        "value": "[object Object]"
       },
       "fontSize": {
-        "value": "1.25rem"
+        "value": "[object Object]"
       },
       "letterSpacing": {
-        "value": 0
+        "value": "[object Object]"
       },
       "textTransform": {
-        "value": "none"
+        "value": "[object Object]"
       },
       "paragraphSpacing": {
-        "value": 0
+        "value": "[object Object]"
       }
     },
     "h6": {
       "fontFamily": {
-        "value": "Lato, Arial, sans-serif"
+        "value": "[object Object]"
       },
       "fontWeight": {
-        "value": 700
+        "value": "[object Object]"
       },
       "lineHeight": {
-        "value": "1.2rem"
+        "value": "[object Object]"
       },
       "fontSize": {
-        "value": "1rem"
+        "value": "[object Object]"
       },
       "letterSpacing": {
-        "value": 0
+        "value": "[object Object]"
       },
       "textTransform": {
-        "value": "none"
+        "value": "[object Object]"
       },
       "paragraphSpacing": {
-        "value": 0
+        "value": "[object Object]"
       }
     },
     "subtitle1": {
       "fontFamily": {
-        "value": "Lato, Arial, sans-serif"
+        "value": "[object Object]"
       },
       "fontWeight": {
-        "value": 400
+        "value": "[object Object]"
       },
       "lineHeight": {
-        "value": "1.75rem"
+        "value": "[object Object]"
       },
       "fontSize": {
-        "value": "1rem"
+        "value": "[object Object]"
       },
       "letterSpacing": {
-        "value": 0
+        "value": "[object Object]"
       },
       "textTransform": {
-        "value": "none"
+        "value": "[object Object]"
       },
       "paragraphSpacing": {
-        "value": 0
+        "value": "[object Object]"
       }
     },
     "subtitle2": {
       "fontFamily": {
-        "value": "Lato, Arial, sans-serif"
+        "value": "[object Object]"
       },
       "fontWeight": {
-        "value": 700
+        "value": "[object Object]"
       },
       "lineHeight": {
-        "value": "1.5rem"
+        "value": "[object Object]"
       },
       "fontSize": {
-        "value": "0.875rem"
+        "value": "[object Object]"
       },
       "letterSpacing": {
-        "value": 0
+        "value": "[object Object]"
       },
       "textTransform": {
-        "value": "none"
+        "value": "[object Object]"
       },
       "paragraphSpacing": {
-        "value": 0
+        "value": "[object Object]"
       }
     },
     "body1": {
       "fontFamily": {
-        "value": "Lato, Arial, sans-serif"
+        "value": "[object Object]"
       },
       "fontWeight": {
-        "value": 400
+        "value": "[object Object]"
       },
       "lineHeight": {
-        "value": "1.5rem"
+        "value": "[object Object]"
       },
       "fontSize": {
-        "value": "1rem"
+        "value": "[object Object]"
       },
       "letterSpacing": {
-        "value": 0
+        "value": "[object Object]"
       },
       "textTransform": {
-        "value": "none"
+        "value": "[object Object]"
       },
       "paragraphSpacing": {
-        "value": 0
+        "value": "[object Object]"
       }
     },
     "body2": {
       "fontFamily": {
-        "value": "Lato, Arial, sans-serif"
+        "value": "[object Object]"
       },
       "fontWeight": {
-        "value": 400
+        "value": "[object Object]"
       },
       "lineHeight": {
-        "value": "1.375rem"
+        "value": "[object Object]"
       },
       "fontSize": {
-        "value": "0.875rem"
+        "value": "[object Object]"
       },
       "letterSpacing": {
-        "value": 0
+        "value": "[object Object]"
       },
       "textTransform": {
-        "value": "none"
+        "value": "[object Object]"
       },
       "paragraphSpacing": {
-        "value": 0
+        "value": "[object Object]"
       }
     },
     "blockquote": {
       "fontFamily": {
-        "value": "Lato, Arial, sans-serif"
+        "value": "[object Object]"
       },
       "fontWeight": {
-        "value": 700
+        "value": "[object Object]"
       },
       "lineHeight": {
-        "value": "1.75rem"
+        "value": "[object Object]"
       },
       "fontSize": {
-        "value": "1.125rem"
+        "value": "[object Object]"
       },
       "letterSpacing": {
-        "value": 0
+        "value": "[object Object]"
       },
       "textTransform": {
-        "value": "none"
+        "value": "[object Object]"
       },
       "paragraphSpacing": {
-        "value": 0
+        "value": "[object Object]"
       }
     },
     "caption": {
       "fontFamily": {
-        "value": "Lato, Arial, sans-serif"
+        "value": "[object Object]"
       },
       "fontWeight": {
-        "value": 400
+        "value": "[object Object]"
       },
       "lineHeight": {
-        "value": "1.375rem"
+        "value": "[object Object]"
       },
       "fontSize": {
-        "value": "0.75rem"
+        "value": "[object Object]"
       },
       "letterSpacing": {
-        "value": 0
+        "value": "[object Object]"
       },
       "textTransform": {
-        "value": "none"
+        "value": "[object Object]"
       },
       "paragraphSpacing": {
-        "value": 0
+        "value": "[object Object]"
       }
     },
     "overline": {
       "fontFamily": {
-        "value": "Lato, Arial, sans-serif"
+        "value": "[object Object]"
       },
       "fontWeight": {
-        "value": 400
+        "value": "[object Object]"
       },
       "lineHeight": {
-        "value": "2.75rem"
+        "value": "[object Object]"
       },
       "fontSize": {
-        "value": "0.75rem"
+        "value": "[object Object]"
       },
       "letterSpacing": {
-        "value": 0
+        "value": "[object Object]"
       },
       "textTransform": {
-        "value": "uppercase"
+        "value": "[object Object]"
       },
       "paragraphSpacing": {
-        "value": 0
+        "value": "[object Object]"
       }
     }
   },
