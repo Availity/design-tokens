@@ -1648,366 +1648,393 @@
   "typography": {
     "d1": {
       "fontFamily": {
-        "value": "[object Object]"
+        "value": "Lato, Arial, sans-serif"
       },
       "fontWeight": {
-        "value": "[object Object]"
+        "value": 300
       },
       "lineHeight": {
-        "value": "[object Object]"
+        "value": "5.4rem"
       },
       "fontSize": {
-        "value": "[object Object]"
+        "value": "4.5rem"
       },
       "letterSpacing": {
-        "value": "[object Object]"
-      },
-      "textTransform": {
-        "value": "[object Object]"
+        "value": "none"
       },
       "paragraphSpacing": {
-        "value": "[object Object]"
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
       }
     },
     "d2": {
       "fontFamily": {
-        "value": "[object Object]"
+        "value": "Lato, Arial, sans-serif"
       },
       "fontWeight": {
-        "value": "[object Object]"
+        "value": 300
       },
       "lineHeight": {
-        "value": "[object Object]"
+        "value": "4.2rem"
       },
       "fontSize": {
-        "value": "[object Object]"
+        "value": "3.5rem"
       },
       "letterSpacing": {
-        "value": "[object Object]"
-      },
-      "textTransform": {
-        "value": "[object Object]"
+        "value": "none"
       },
       "paragraphSpacing": {
-        "value": "[object Object]"
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
       }
     },
     "h1": {
       "fontFamily": {
-        "value": "[object Object]"
+        "value": "Lato, Arial, sans-serif"
       },
       "fontWeight": {
-        "value": "[object Object]"
+        "value": 700
       },
       "lineHeight": {
-        "value": "[object Object]"
+        "value": "3rem"
       },
       "fontSize": {
-        "value": "[object Object]"
+        "value": "2.5rem"
       },
       "letterSpacing": {
-        "value": "[object Object]"
-      },
-      "textTransform": {
-        "value": "[object Object]"
+        "value": "none"
       },
       "paragraphSpacing": {
-        "value": "[object Object]"
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
       }
     },
     "h2": {
       "fontFamily": {
-        "value": "[object Object]"
+        "value": "Lato, Arial, sans-serif"
       },
       "fontWeight": {
-        "value": "[object Object]"
+        "value": 700
       },
       "lineHeight": {
-        "value": "[object Object]"
+        "value": "2.5rem"
       },
       "fontSize": {
-        "value": "[object Object]"
+        "value": "2rem"
       },
       "letterSpacing": {
-        "value": "[object Object]"
-      },
-      "textTransform": {
-        "value": "[object Object]"
+        "value": "none"
       },
       "paragraphSpacing": {
-        "value": "[object Object]"
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
       }
     },
     "h3": {
       "fontFamily": {
-        "value": "[object Object]"
+        "value": "Lato, Arial, sans-serif"
       },
       "fontWeight": {
-        "value": "[object Object]"
+        "value": 700
       },
       "lineHeight": {
-        "value": "[object Object]"
+        "value": "2rem"
       },
       "fontSize": {
-        "value": "[object Object]"
+        "value": "1.75rem"
       },
       "letterSpacing": {
-        "value": "[object Object]"
-      },
-      "textTransform": {
-        "value": "[object Object]"
+        "value": "none"
       },
       "paragraphSpacing": {
-        "value": "[object Object]"
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
       }
     },
     "h4": {
       "fontFamily": {
-        "value": "[object Object]"
+        "value": "Lato, Arial, sans-serif"
       },
       "fontWeight": {
-        "value": "[object Object]"
+        "value": 700
       },
       "lineHeight": {
-        "value": "[object Object]"
+        "value": "1.8rem"
       },
       "fontSize": {
-        "value": "[object Object]"
+        "value": "1.5rem"
       },
       "letterSpacing": {
-        "value": "[object Object]"
-      },
-      "textTransform": {
-        "value": "[object Object]"
+        "value": "none"
       },
       "paragraphSpacing": {
-        "value": "[object Object]"
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
       }
     },
     "h5": {
       "fontFamily": {
-        "value": "[object Object]"
+        "value": "Lato, Arial, sans-serif"
       },
       "fontWeight": {
-        "value": "[object Object]"
+        "value": 700
       },
       "lineHeight": {
-        "value": "[object Object]"
+        "value": "1.5rem"
       },
       "fontSize": {
-        "value": "[object Object]"
+        "value": "1.25rem"
       },
       "letterSpacing": {
-        "value": "[object Object]"
-      },
-      "textTransform": {
-        "value": "[object Object]"
+        "value": "none"
       },
       "paragraphSpacing": {
-        "value": "[object Object]"
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
       }
     },
     "h6": {
       "fontFamily": {
-        "value": "[object Object]"
+        "value": "Lato, Arial, sans-serif"
       },
       "fontWeight": {
-        "value": "[object Object]"
+        "value": 700
       },
       "lineHeight": {
-        "value": "[object Object]"
+        "value": "1.2rem"
       },
       "fontSize": {
-        "value": "[object Object]"
+        "value": "1rem"
       },
       "letterSpacing": {
-        "value": "[object Object]"
-      },
-      "textTransform": {
-        "value": "[object Object]"
+        "value": "none"
       },
       "paragraphSpacing": {
-        "value": "[object Object]"
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
       }
     },
     "subtitle1": {
       "fontFamily": {
-        "value": "[object Object]"
+        "value": "Lato, Arial, sans-serif"
       },
       "fontWeight": {
-        "value": "[object Object]"
+        "value": 400
       },
       "lineHeight": {
-        "value": "[object Object]"
+        "value": "1.75rem"
       },
       "fontSize": {
-        "value": "[object Object]"
+        "value": "1rem"
       },
       "letterSpacing": {
-        "value": "[object Object]"
-      },
-      "textTransform": {
-        "value": "[object Object]"
+        "value": "none"
       },
       "paragraphSpacing": {
-        "value": "[object Object]"
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
       }
     },
     "subtitle2": {
       "fontFamily": {
-        "value": "[object Object]"
+        "value": "Lato, Arial, sans-serif"
       },
       "fontWeight": {
-        "value": "[object Object]"
+        "value": 400
       },
       "lineHeight": {
-        "value": "[object Object]"
+        "value": "1.5rem"
       },
       "fontSize": {
-        "value": "[object Object]"
+        "value": "0.875rem"
       },
       "letterSpacing": {
-        "value": "[object Object]"
-      },
-      "textTransform": {
-        "value": "[object Object]"
+        "value": "none"
       },
       "paragraphSpacing": {
-        "value": "[object Object]"
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
       }
     },
     "body1": {
       "fontFamily": {
-        "value": "[object Object]"
+        "value": "Lato, Arial, sans-serif"
       },
       "fontWeight": {
-        "value": "[object Object]"
+        "value": 400
       },
       "lineHeight": {
-        "value": "[object Object]"
+        "value": "1.5rem"
       },
       "fontSize": {
-        "value": "[object Object]"
+        "value": "1rem"
       },
       "letterSpacing": {
-        "value": "[object Object]"
-      },
-      "textTransform": {
-        "value": "[object Object]"
+        "value": "none"
       },
       "paragraphSpacing": {
-        "value": "[object Object]"
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
       }
     },
     "body2": {
       "fontFamily": {
-        "value": "[object Object]"
+        "value": "Lato, Arial, sans-serif"
       },
       "fontWeight": {
-        "value": "[object Object]"
+        "value": 400
       },
       "lineHeight": {
-        "value": "[object Object]"
+        "value": "1.375rem"
       },
       "fontSize": {
-        "value": "[object Object]"
+        "value": "0.875rem"
       },
       "letterSpacing": {
-        "value": "[object Object]"
-      },
-      "textTransform": {
-        "value": "[object Object]"
+        "value": "none"
       },
       "paragraphSpacing": {
-        "value": "[object Object]"
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
       }
     },
-    "blockquote": {
+    "button": {
       "fontFamily": {
-        "value": "[object Object]"
+        "value": "Lato, Arial, sans-serif"
       },
       "fontWeight": {
-        "value": "[object Object]"
+        "value": 400
       },
       "lineHeight": {
-        "value": "[object Object]"
+        "value": 1.25
       },
       "fontSize": {
-        "value": "[object Object]"
+        "value": "0.875rem"
       },
       "letterSpacing": {
-        "value": "[object Object]"
-      },
-      "textTransform": {
-        "value": "[object Object]"
+        "value": "none"
       },
       "paragraphSpacing": {
-        "value": "[object Object]"
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
       }
     },
     "caption": {
       "fontFamily": {
-        "value": "[object Object]"
+        "value": "Lato, Arial, sans-serif"
       },
       "fontWeight": {
-        "value": "[object Object]"
+        "value": 400
       },
       "lineHeight": {
-        "value": "[object Object]"
+        "value": "1.375rem"
       },
       "fontSize": {
-        "value": "[object Object]"
+        "value": "0.75rem"
       },
       "letterSpacing": {
-        "value": "[object Object]"
-      },
-      "textTransform": {
-        "value": "[object Object]"
+        "value": "none"
       },
       "paragraphSpacing": {
-        "value": "[object Object]"
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
       }
     },
     "overline": {
       "fontFamily": {
-        "value": "[object Object]"
+        "value": "Lato, Arial, sans-serif"
       },
       "fontWeight": {
-        "value": "[object Object]"
+        "value": 400
       },
       "lineHeight": {
-        "value": "[object Object]"
+        "value": "2.75rem"
       },
       "fontSize": {
-        "value": "[object Object]"
+        "value": "0.75rem"
       },
       "letterSpacing": {
-        "value": "[object Object]"
-      },
-      "textTransform": {
-        "value": "[object Object]"
+        "value": "none"
       },
       "paragraphSpacing": {
-        "value": "[object Object]"
+        "value": "none"
+      },
+      "textDecoration": {
+        "value": "none"
+      },
+      "textCase": {
+        "value": "none"
       }
-    }
-  },
-  "textTransform": {
-    "none": {
-      "value": "none",
-      "type": "textCase"
-    },
-    "lowercase": {
-      "value": "lowercase",
-      "type": "textCase"
-    },
-    "uppercase": {
-      "value": "uppercase",
-      "type": "textCase"
-    },
-    "capitalized": {
-      "value": "capitalized",
-      "type": "textCase"
     }
   }
 }
