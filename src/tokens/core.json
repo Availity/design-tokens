@@ -1,4 +1,10 @@
 {
+  "tokenSetOrder": {
+    "0": {
+      "value": "core",
+      "type": "other"
+    }
+  },
   "shadows": {
     "0": {
       "value": [
@@ -1158,7 +1164,7 @@
     },
     "secondary": {
       "main": {
-        "value": "#393B46",
+        "value": "#454754",
         "type": "color"
       },
       "main-20": {
@@ -1166,7 +1172,7 @@
         "type": "color"
       },
       "light": {
-        "value": "#454754",
+        "value": "#5E616E",
         "type": "color"
       },
       "dark": {
