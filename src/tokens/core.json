@@ -1332,14 +1332,12 @@
         "type": "color"
       },
       "inverse": {
-        "primary": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "#B5BBC5",
-          "type": "color"
-        }
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "inverseSecondary": {
+        "value": "#B5BBC5",
+        "type": "color"
       },
       "info": {
         "value": "#1552BC",
